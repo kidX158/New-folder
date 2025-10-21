@@ -7,6 +7,10 @@
 body{
     font-family: Arial, sans-serif;
     background-image: url('wallp3.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 100vh;
     color: #050000;
     line-height: 1.6;
     padding: 20px;
